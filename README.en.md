@@ -45,11 +45,24 @@ If an unrelated photograph could replace the source without materially changing 
 - **Loose support and old print:** pale washes, local diagonals, or simple geometry serve action and space; show broken marks, dirty-colour deposits, show-through, and registration drift.
 - **Type grown into the picture:** use naive-retro hand lettering with gentle serif or sans-serif support; controlled offset, tilt, stretch, colour overlap, or misregistration may integrate it.
 
-## Samples · Coming soon
+## Samples · From X
 
-The repository reserves [`assets/examples/`](assets/examples/) for future work. Only finished 002 artwork verified by the project owner will be added; no post or image from another style is used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
+> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
 
-Future samples will demonstrate 002's adaptability. Their subjects, metaphors, palette, copy, and canvas ratios will never become generation references or defaults.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 002 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 002 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 002 sample 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 002 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four outputs, one hand-drawn logic
 
