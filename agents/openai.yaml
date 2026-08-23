@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 002"
+  short_description: "Create narrative retro editorial art with print shift."
+  default_prompt: "Use $xxd-panel-002 to turn my photo into narrative retro editorial artwork with hesitant contour, selective feature enlargement, and integrated misregistered type; ask first for modes and copy or language preferences."
