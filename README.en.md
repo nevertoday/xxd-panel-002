@@ -41,7 +41,18 @@ The result does not trace the photograph's surface. It finds one intelligent, pl
 
 These samples demonstrate the 002 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 002 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Translate a photograph into narrative contour, hesitant hand line, and misregistered vintage editorial print |
+| **Recognizable signature** | NARRATIVE CONTOUR · HESITANT LINE · ANALOGOUS COLOUR · SELECTIVE ENLARGEMENT · MISREGISTERED TYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Hand-drawn style” easily collapses into generic cute cartooning: perfectly smooth outlines, an interchangeable palette, or a digital noise filter pretending to be paper and pigment.
 
@@ -53,7 +64,7 @@ lock source facts → find one source-specific visual metaphor → simplify with
 
 If an unrelated photograph could replace the source without materially changing the subject, metaphor, gesture, palette, or copy, the result is not 002.
 
-## The 002 visual contract
+## What makes the finished style recognizable
 
 - **Recognisable narrative silhouette:** retain at least three source-specific identity cues, pose, and spatial relation. The contour may hesitate but cannot lose identity.
 - **Source-specific transformation:** derive one intelligent, natural visual metaphor from an action, structure, setting, or mood instead of applying a fixed visual trick.
