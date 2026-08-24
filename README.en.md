@@ -22,6 +22,25 @@ XXD Panel 002 is an image-generation Skill for Codex and compatible agents. It a
 
 The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
+> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 002 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 002 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 002 sample 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 002 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Hand-drawn style” easily collapses into generic cute cartooning: perfectly smooth outlines, an interchangeable palette, or a digital noise filter pretending to be paper and pigment.
@@ -44,25 +63,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Analogous colour unity:** organise high-value, low-to-medium saturation neighbouring hues from the source, with one small complementary jump.
 - **Loose support and old print:** pale washes, local diagonals, or simple geometry serve action and space; show broken marks, dirty-colour deposits, show-through, and registration drift.
 - **Type grown into the picture:** use naive-retro hand lettering with gentle serif or sans-serif support; controlled offset, tilt, stretch, colour overlap, or misregistration may integrate it.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
-> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 002 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 002 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 002 sample 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 002 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

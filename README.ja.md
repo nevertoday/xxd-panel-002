@@ -22,6 +22,25 @@ XXD Panel 002 は、Codex と互換 Agent のための画像生成 Skill です�
 
 写真の表面をなぞるのではなく、元写真の事実に結びついた、賢く軽い一つの視覚的な変換を見つけます。モダニズムの編集画、バウハウスの秩序、絵本の温度、ファッションスケッチの力の抜け方が同居し、文字は広告見出しではなく描き手の控えめな書き込みとして働きます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
+> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 002 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 002 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 002 作例 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 002 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 002 が必要なのか
 
 一般的な「手描き風」は、滑らかすぎる輪郭、どの写真にも交換できる配色、紙や顔料を装うデジタルノイズによって、汎用的な可愛い漫画へ崩れがちです。
@@ -44,25 +63,6 @@ XXD Panel 002 は、Codex と互換 Agent のための画像生成 Skill です�
 - **類似色の統一：** 元写真から高明度・低〜中彩度の近い色相を組み、一つの小さな補色だけを跳ねさせます。
 - **温かな紙と印刷のずれ：** 紙繊維、粗い縁、わずかな裏抜けと見当ずれを、均一ノイズではなく素材の証拠として残します。
 - **画面から育つ文字：** 手書き主題と穏やかな明朝／ゴシック補助文字を、ずれ、傾き、伸縮、重色、版ずれで控えめに統合します。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
-> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 002 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 002 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 002 作例 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 002 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

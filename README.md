@@ -22,6 +22,25 @@ XXD Panel 002 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 画面不复制照片表面，而是从源图事实中找到一个聪明、轻巧、可回看的视觉转化。它融合现代主义编辑插画、包豪斯秩序、绘本温度和时装速写的松弛感；文字像画者顺手留下的克制手写注记，而不是后来贴上去的广告标题。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
+> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 002 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 002 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 002 样张 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 002 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 002
 
 普通“手绘风”很容易退化成通用可爱卡通：轮廓过于圆滑、色盘与任何照片都能互换，或用数字滤镜假装纸张和笔触。
@@ -44,25 +63,6 @@ XXD Panel 002 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **近似色统一：** 用源图高明度、低至中饱和的相邻色组织气氛，只加入一个小面积互补跳点。
 - **松散承托与旧印刷：** 淡彩、局部斜线或简单几何只为动作和空间服务；保留透底、断笔、轻微脏色和套色偏差。
 - **从画面里长出的文字：** 主标题用稚拙复古手写，辅助文字用温和衬线或无衬线；可克制地错位、倾斜、拉伸、叠色或套印。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
-> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 002 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 002 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 002 样张 3"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 002 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 
