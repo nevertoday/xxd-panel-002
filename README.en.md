@@ -16,16 +16,7 @@
 
 </div>
 
-> NARRATIVE CONTOUR · HESITANT LINE · ANALOGOUS COLOUR · SELECTIVE ENLARGEMENT · MISREGISTERED TYPE
-
-XXD Panel 002 is an image-generation Skill for Codex and compatible agents. It accurately preserves identity, visible emotion, pose, and spatial relation, then translates them through hesitant contour, one selectively enlarged narrative feature, loose wash, and old-print misregistration into a page poised between a carefully kept vintage fashion picture book and a modern art magazine.
-
-The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
-> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
 
 <table>
   <tr>
@@ -37,9 +28,18 @@ The result does not trace the photograph's surface. It finds one intelligent, pl
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089893684527730867) · 2026-08-19<br>
+> GPT2 x 转绘 x 上下 x 水彩 x 美学提示词 x VOL.002
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089893684527730867">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 002 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> NARRATIVE CONTOUR · HESITANT LINE · ANALOGOUS COLOUR · SELECTIVE ENLARGEMENT · MISREGISTERED TYPE
+
+XXD Panel 002 is an image-generation Skill for Codex and compatible agents. It accurately preserves identity, visible emotion, pose, and spatial relation, then translates them through hesitant contour, one selectively enlarged narrative feature, loose wash, and old-print misregistration into a page poised between a carefully kept vintage fashion picture book and a modern art magazine.
+
+The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 002 right for you?
