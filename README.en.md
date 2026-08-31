@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 002
+# 🦁 XXD Panel 002｜Playful Bauhaus
 
 ### Translate a photograph into narrative contour, hesitant hand line, and misregistered vintage editorial print
 

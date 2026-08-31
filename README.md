@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 002
+# 🦁 XXD Panel 002｜俏皮包豪斯
 
 ### 把照片转译成有叙事轮廓、迟疑手感与旧印刷错位的复古编辑画
 
