@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="XXD Panel 002 프로젝트 배너" width="1200">
-</p>
-
 <div align="center">
 
 # 🦁 XXD Panel 002｜장난스러운 바우하우스
@@ -321,7 +317,6 @@ xxd-panel-002/
 ├── SKILL.md
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
-├── assets/banner.svg + examples/ (향후 로컬 예시용)
 ├── scripts/compose_panel.py + configured_imagegen.py
 └── references/xxd-panel-002-prompt.zh-CN.md + xxd-panel-002-prompt.en.md + 002-source.md
 ```

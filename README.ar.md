@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="لافتة مشروع XXD Panel 002" width="1200">
-</p>
-
 <div align="center" dir="rtl">
 
 # 🦁 XXD Panel 002｜باوهاوس المرحة
@@ -323,7 +319,6 @@ xxd-panel-002/
 ├── SKILL.md
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
-├── assets/banner.svg + examples/ (محجوز لنماذج محلية مستقبلية)
 ├── scripts/compose_panel.py + configured_imagegen.py
 └── references/xxd-panel-002-prompt.zh-CN.md + xxd-panel-002-prompt.en.md + 002-source.md
 ```
