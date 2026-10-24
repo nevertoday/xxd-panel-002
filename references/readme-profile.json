@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 002｜Playful Bauhaus: redraws the subject, pose and story of a photo as a playful retro hand-drawn editorial illustration that mixes Bauhaus-style simple geometry, picture-book naivety and fashion sketching — simplified shapes with hesitant, slightly wobbly outlines, one or two features gently enlarged, watercolour, gouache, coloured pencil, pastel and dry brush on grainy paper, a soft analogous palette from the photo with a small complementary accent, loose washes, diagonal strokes and simple shapes on wide cream whitespace, plus a handwritten retro title or keyword printed slightly off-register. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-002 or asks for playful Bauhaus, retro fashion-sketch or misregistered hand-drawn editorial illustration from a photo.",
+  "short_description": "俏皮包豪斯：把照片画成带简单几何、手抖轮廓和旧印刷错位的复古编辑插画",
+  "zh-CN": {
+    "name": "俏皮包豪斯",
+    "tagline": "把照片画成带一点包豪斯几何、手抖轮廓和旧印刷错位的复古编辑插画。",
+    "look": "照片里的主体、姿态和人物关系会被重新画出来：造型概括，轮廓带一点迟疑和手工误差，最有特点的局部会被适度放大，像时装速写，又像儿童绘本。颜色从照片里取，偏浅偏柔，用相近色统一，再放一小块互补色跳出来；水彩、水粉、彩铅、粉蜡笔和干刷混在一起，留着纸纹、透底和套色偏差。背景是大片米白，只用几笔淡彩、斜线或简单几何形托住主体。画面上有一个稚拙的手写标题，配少量关键词、编号或短句，文字会有轻微错位、倾斜或叠色。",
+    "traits": [
+      "迟疑手线",
+      "局部夸张",
+      "近似色",
+      "套印文字",
+      "叙事",
+      "简单几何"
+    ],
+    "good": [
+      "姿态或穿搭有特点的人像：街拍、跳舞、撑伞走路、骑车的人",
+      "有小故事的瞬间：牵手过马路、遛狗、咖啡馆里聊天",
+      "形状好认的日常物件和动物：一只猫、一顶帽子、一辆老式小汽车"
+    ],
+    "poor": [
+      "要求细节精确的图：产品图、证件照、带复杂文字的招牌",
+      "场景密集、元素堆得很满的照片，画面会失去留白和轻快感",
+      "想要写实光影、光滑矢量、3D 或精修商业插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Playful Bauhaus",
+    "tagline": "Turns a photo into a retro editorial drawing with a touch of Bauhaus geometry, wobbly outlines and off-register print.",
+    "look": "The subject, its pose and the relationships in your photo are redrawn with simplified shapes and slightly hesitant, hand-made outlines; the most characteristic feature is gently enlarged, somewhere between a fashion sketch and a children's picture book. Colours come from the photo, kept pale and soft, unified by neighbouring hues with one small complementary accent. Watercolour, gouache, coloured pencil, pastel and dry brush are mixed, leaving paper grain, see-through washes and off-register colour. A wide cream background holds the subject with only a few loose washes, diagonal strokes or simple shapes, and a naive handwritten title with a few keywords, a number or a short line sits slightly offset, tilted or overprinted.",
+    "traits": [
+      "Hesitant hand line",
+      "Gentle exaggeration",
+      "Analogous colour",
+      "Off-register type",
+      "Storytelling",
+      "Simple geometry"
+    ],
+    "good": [
+      "Portraits with a distinctive pose or outfit: street style, dancing, walking with an umbrella, someone on a bike",
+      "Moments with a small story: holding hands at a crossing, walking a dog, chatting in a café",
+      "Everyday objects and animals with an easy shape: a cat, a hat, a vintage car"
+    ],
+    "poor": [
+      "Images that need exact detail: product shots, ID photos, signs full of text",
+      "Dense, crowded scenes, which lose the whitespace and lightness",
+      "Requests for realistic lighting, smooth vector, 3D or polished commercial illustration"
+    ]
+  },
+  "ja": {
+    "name": "遊び心のバウハウス",
+    "tagline": "写真を、少しバウハウス風の幾何と揺れる輪郭、版ずれのあるレトロな雑誌イラストにします。",
+    "look": "写真の主役、ポーズ、人物どうしの関係を描き直します。形は簡略化し、輪郭には少しためらいや手の誤差を残し、いちばん特徴的な部分はほどよく大きくします。ファッションスケッチと絵本のあいだのような絵です。色は写真から取り、淡く柔らかく近い色でまとめ、補色を小さく一つだけ効かせます。水彩、ガッシュ、色鉛筆、パステル、ドライブラシを混ぜ、紙の目や透け、版ずれを残します。背景は広い生成りで、淡い色、斜線、簡単な図形だけで主役を支えます。素朴な手書きタイトルに短いキーワード、番号、一言を添え、文字は少しずれたり傾いたり重なったりします。",
+    "traits": [
+      "ためらう手描き線",
+      "部分的な誇張",
+      "近似色",
+      "版ずれ文字",
+      "物語性",
+      "シンプルな幾何"
+    ],
+    "good": [
+      "ポーズや服装に特徴のある人物：スナップ、ダンス、傘をさして歩く人、自転車に乗る人",
+      "小さな物語のある瞬間：手をつないで横断歩道を渡る、犬の散歩、カフェでのおしゃべり",
+      "形のわかりやすい日用品や動物：猫、帽子、クラシックカー"
+    ],
+    "poor": [
+      "細部の正確さが必要な画像：商品写真、証明写真、文字の多い看板",
+      "要素が詰まった密な場面（余白と軽さが失われます）",
+      "写実的な光と影、つるっとしたベクター、3D、作り込んだ商業イラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "장난스러운 바우하우스",
+    "tagline": "사진을 바우하우스풍 기하와 흔들리는 윤곽, 인쇄 어긋남이 있는 레트로 편집 일러스트로 바꿉니다.",
+    "look": "사진 속 주인공과 자세, 인물 사이의 관계를 다시 그립니다. 형태는 단순하게, 윤곽에는 약간의 머뭇거림과 손의 오차를 남기고, 가장 특징적인 부분은 적당히 키웁니다. 패션 크로키와 그림책 사이 같은 그림입니다. 색은 사진에서 가져와 연하고 부드럽게, 비슷한 색으로 묶고 보색 하나를 작게 띄웁니다. 수채, 과슈, 색연필, 파스텔, 드라이 브러시를 섞어 종이 결과 비침, 색 어긋남을 남깁니다. 넓은 크림색 바탕에 옅은 색, 사선, 간단한 도형 몇 개만으로 주인공을 받칩니다. 서툰 손글씨 제목과 짧은 키워드, 번호, 한 줄 문장이 살짝 어긋나거나 기울거나 겹쳐 들어갑니다.",
+    "traits": [
+      "머뭇거리는 손선",
+      "부분 과장",
+      "유사색",
+      "어긋난 인쇄 글자",
+      "서사",
+      "단순한 기하"
+    ],
+    "good": [
+      "자세나 옷차림이 특징 있는 인물: 스트리트 패션, 춤, 우산 쓰고 걷는 사람, 자전거 타는 사람",
+      "작은 이야기가 있는 순간: 손잡고 건널목 건너기, 강아지 산책, 카페 수다",
+      "형태가 알아보기 쉬운 물건과 동물: 고양이, 모자, 클래식 자동차"
+    ],
+    "poor": [
+      "세부가 정확해야 하는 이미지: 제품 사진, 증명사진, 글자가 많은 간판",
+      "요소가 빽빽한 장면(여백과 가벼움이 사라집니다)",
+      "사실적인 빛과 그림자, 매끈한 벡터, 3D, 다듬어진 상업 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "باوهاوس المرحة",
+    "tagline": "يحوّل الصورة إلى رسم تحريري رجعي فيه لمسة من هندسة باوهاوس وخطوط مرتعشة وطباعة منزاحة.",
+    "look": "يُعاد رسم العنصر الرئيسي في صورتك ووضعيته والعلاقات بين أشخاصه بأشكال مبسّطة وحواف مترددة فيها أثر اليد، مع تكبير خفيف لأكثر تفاصيله تميّزاً، في منزلة بين رسم الأزياء السريع وكتب الأطفال المصوّرة. تُؤخذ الألوان من الصورة وتبقى فاتحة وناعمة، تجمعها درجات متقاربة مع لمسة صغيرة واحدة من لون مكمّل. تختلط الألوان المائية والغواش والأقلام الملوّنة والباستيل والفرشاة الجافة، مع حبيبات الورق وشفافية الطبقات وانزياح الألوان. تحمل الخلفيةُ الكريمية الواسعة العنصرَ ببضع لطخات خفيفة أو خطوط مائلة أو أشكال بسيطة، ويظهر عنوان بخط يد عفوي مع كلمات قليلة أو رقم أو جملة قصيرة، منزاحاً أو مائلاً أو متراكباً قليلاً.",
+    "traits": [
+      "خط يد متردد",
+      "مبالغة موضعية",
+      "ألوان متقاربة",
+      "نص بطباعة منزاحة",
+      "سرد",
+      "هندسة بسيطة"
+    ],
+    "good": [
+      "صور أشخاص بوضعية أو ملابس مميزة: أزياء الشارع، رقص، شخص يمشي بمظلة أو يركب دراجة",
+      "لحظات فيها حكاية صغيرة: يدان متشابكتان عند معبر، تنزيه كلب، حديث في مقهى",
+      "أشياء يومية وحيوانات سهلة الشكل: قطة، قبعة، سيارة قديمة"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل دقيقة: صور المنتجات، صور الهوية، لافتات مليئة بالكتابة",
+      "مشاهد مزدحمة بالعناصر، تفقد الفراغ والخفة",
+      "طلب إضاءة واقعية أو رسم متجهي أملس أو ثلاثي الأبعاد أو رسم تجاري مصقول"
+    ]
+  }
+}

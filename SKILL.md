@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-002
-description: "Create XXD Panel 002 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-002 or requests the exact Panel 002 style."
+description: "XXD Panel 002｜Playful Bauhaus: redraws the subject, pose and story of a photo as a playful retro hand-drawn editorial illustration that mixes Bauhaus-style simple geometry, picture-book naivety and fashion sketching — simplified shapes with hesitant, slightly wobbly outlines, one or two features gently enlarged, watercolour, gouache, coloured pencil, pastel and dry brush on grainy paper, a soft analogous palette from the photo with a small complementary accent, loose washes, diagonal strokes and simple shapes on wide cream whitespace, plus a handwritten retro title or keyword printed slightly off-register. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-002 or asks for playful Bauhaus, retro fashion-sketch or misregistered hand-drawn editorial illustration from a photo."
 ---
 
 # XXD Panel 002

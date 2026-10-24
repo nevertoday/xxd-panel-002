@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-002"
-  short_description: "Create Panel 002 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-002; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "俏皮包豪斯：把照片画成带简单几何、手抖轮廓和旧印刷错位的复古编辑插画"
+  default_prompt: "Use $xxd-panel-002 to turn my photo into Playful Bauhaus artwork."
 
 policy:
   allow_implicit_invocation: true
